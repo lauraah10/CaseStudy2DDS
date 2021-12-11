@@ -1,6 +1,6 @@
 ---
 title: "Workplace trends and insight on Fritolay"
-author: "Laura Ahumada"
+author: "Laura Ahumada and Alan Abadzic"
 date: "10/5/2021"
 output: html_document
 ---
@@ -290,7 +290,7 @@ grid.arrange(a,e,g, ncol=3)
 grid.arrange(ji, js, ncol=2)
 
 ```
----------------------------------------------------------------------
+#---------------------------------------------------------------------
 
 ```{r, echo=FALSE, out.width="100%", out.height="150%",  fig.align = 'center'}
 grid.arrange(b,c,f,d, ncol=1)
@@ -306,6 +306,7 @@ grid.arrange(b,c,f,d, ncol=1)
   - HR only has 4%, that is very little. Maybe a survey should also be performed to see if people more HR support is needed to make employees feel confortable.
   
   
+
 ## EDA: Continuos Variables
 
 ```{r, echo=FALSE}
