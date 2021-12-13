@@ -1,26 +1,7 @@
 # Case_Study2_DDS: Exploratory analysis on Fritolay,
 
 # CaseStudy2-data.csv
-  - Main data with 
- "ID"                       "Age"                     
- "Attrition"                "BusinessTravel"          
- "DailyRate"                "Department"              
- "DistanceFromHome"         "Education"               
- "EducationField"           "EmployeeCount"           
- "EmployeeNumber"           "EnvironmentSatisfaction" 
- "Gender"                   "HourlyRate"              
- "JobInvolvement"           "JobLevel"                
- "JobRole"                  "JobSatisfaction"         
- "MaritalStatus"            "MonthlyIncome"           
- "MonthlyRate"              "NumCompaniesWorked"      
- "Over18"                   "OverTime"                
- "PercentSalaryHike"        "PerformanceRating"       
- "RelationshipSatisfaction" "StandardHours"           
- "StockOptionLevel"         "TotalWorkingYears"       
- "TrainingTimesLastYear"    "WorkLifeBalance"         
- "YearsAtCompany"           "YearsInCurrentRole"      
- "YearsSinceLastPromotion"  "YearsWithCurrManager"
-
+  - Fritolay's data
 
 # project2.Rmd
   - The RMD will showcase the patterns and insights on the friolay ata given 
